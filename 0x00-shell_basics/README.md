@@ -1,1 +1,1 @@
-this is almonds directory
+this is almonds repository
