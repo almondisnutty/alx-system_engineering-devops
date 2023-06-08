@@ -1,2 +1,2 @@
 #!/bin/bash
-hdki
+chown -h vincent:staff _hello
